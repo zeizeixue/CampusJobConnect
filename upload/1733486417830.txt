@@ -1,0 +1,30 @@
+cloudflare: https://vless.zeixue.sbs/cebe7c6f-052d-4298-99a1-8dea2ff27936
+
+IP Address: 107.172.142.118
+
+Username: root
+Root Password: ajwvVF4T25f9G0Iq3K
+SSH Port 22
+
+URL: https://nerdvm.racknerd.com/
+Username: vmuser178351
+Password: PQaomMxASil6nfZ (If you already have access to the above control panel please use your existing password)
+
+cloudflare：
+账户：zeixue@proton.me
+密码：@25218qq
+
+namesilo：
+账号：zeixue@proton.me
+密码：@25218Qq
+
+91.195.240.123
+
+小雅：
+账号：dav
+密码：zeixue
+
+rcd, --rc-web-gui
+rclone mount hao: K: --network-mode --header "Referer:" --multi-thread-streams 8 --buffer-size 512M --vfs-fast-fingerprint --vfs-cache-mode full --no-modtime
+
+我这里有一个大学生就业服务系统，其中该系统分为前台学生以及后台管理员或企业。其中，在前台里面，学生可以查看正在招聘的企业信息并选择性的投递简历，以及查看什么时候什么企业开展宣讲会并选择性的报名参加。其次，学生可以更改自己的个人信息。在后台中，管理员可以添加删除修改参与就业的学生信息。对企业同样也是如此。随后，管理员还可以对前来组织招聘的企业进行管理，负责添加删除修改要招聘的企业信息。还有一个是管理学生和企业之间投递简历的信息，只有管理员通过双方才可以看到消息。接着就是学生报名，企业报名，考研报名管理，最后就是录用管理。在后台中，每个企业可以登录对自己的数据进行管理。比如发布那些招聘信息，其次还有一个是岗位管理，比如需要多少岗位。然后企业还可以查看前来投递信息的学生，再者，企业可以组织宣讲会。最后是企业报名管理和企业录用通知。请基于此，帮我生成主要任务以及设计要求
